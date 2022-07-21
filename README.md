@@ -22,4 +22,5 @@ python3 main.py
 tensorboard --logdir runs/
 ```
 
-* 上のプルダウンからPROJECTORを選択
+* ブラウザから`localhost:6006`にアクセス。
+* 上のプルダウンからPROJECTORを選択。
