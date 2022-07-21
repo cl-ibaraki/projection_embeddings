@@ -1,0 +1,5 @@
+transformers
+tensorboardx
+torch
+fugashi
+unidic-lite
